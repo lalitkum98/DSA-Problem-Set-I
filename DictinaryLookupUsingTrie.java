@@ -58,7 +58,6 @@ public class DictinaryLookupUsingTrie {
 
 			}
 			crawl.setIsEnd(true);
-			System.out.println("-----------------------");
 		}
 
 		public void getMatchPrefix(String string) {
