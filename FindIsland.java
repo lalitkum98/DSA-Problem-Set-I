@@ -1,4 +1,4 @@
-package RePracticeAlgo;
+package ProblemSetI;
 
 public class FindIsland {
 
